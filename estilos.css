@@ -1,0 +1,21 @@
+body{
+    background-color: thistle;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(228, 44, 44);
+    background-color: yellow;
+    font-size: 20px;
+}
+
+h1{
+    background-color: tomato ;
+    color: rgb(161, 59, 161);
+    text-align: center;
+    border:1px solid black;
+    padding: 60px;
+    font-size: 50px;
+    margin-top: -2px;
+}
